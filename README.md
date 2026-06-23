@@ -5,6 +5,13 @@
 
 <br/>
 
+<!-- LIVE DEMO BUTTON -->
+<a href="https://mabdullahab614-alt.github.io/quick-summarizer">
+  <img src="https://img.shields.io/badge/▶%20%20T%20R%20Y%20%20L%20I%20V%20E%20%20N%20O%20W-10b981?style=for-the-badge&logo=github&logoColor=white&labelColor=047857" height="52" alt="Try Live"/>
+</a>
+
+<br/><br/>
+
 <!-- Badge Row 1 -->
 <img src="https://img.shields.io/badge/Algorithm-Frequency%20Scoring-10B981?style=for-the-badge&labelColor=0f172a"/>
 &nbsp;
@@ -142,7 +149,7 @@
 
 <div align="center">
 
-### 🌐 Open `docs/index.html` in any browser — works instantly, no install needed.
+### 🌐 [https://mabdullahab614-alt.github.io/quick-summarizer](https://mabdullahab614-alt.github.io/quick-summarizer)
 
 *Paste any text, choose how many sentences you want, and get your summary in under a second. Free. No account needed.*
 
@@ -170,8 +177,8 @@
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/mabdullahab614-alt/smart-text-distiller.git
-cd smart-text-distiller
+git clone https://github.com/mabdullahab614-alt/quick-summarizer.git
+cd quick-summarizer
 
 # 2. Summarize text directly
 python summarizer.py "Your long passage goes here." --sentences 3
@@ -183,7 +190,7 @@ python summarizer.py --file article.txt --sentences 5
 cat article.txt | python summarizer.py --sentences 3
 ```
 
-> Or try it instantly (no install): just open **`docs/index.html`** in your browser!
+> Or try it instantly (no install): **[mabdullahab614-alt.github.io/quick-summarizer](https://mabdullahab614-alt.github.io/quick-summarizer)**
 
 ---
 
@@ -259,6 +266,8 @@ Free to use, modify, and distribute with attribution.
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-mabdullahab614--alt-181717?style=for-the-badge&logo=github&labelColor=0f172a)](https://github.com/mabdullahab614-alt)
+&nbsp;
+[![Live Demo](https://img.shields.io/badge/⚡%20Try%20Distill%20AI-10b981?style=for-the-badge&labelColor=0f172a)](https://mabdullahab614-alt.github.io/quick-summarizer)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Abdullah%20Javid-8B5CF6?style=for-the-badge&labelColor=0f172a)](https://portfolio-website-jet-iota-21.vercel.app/)
 
