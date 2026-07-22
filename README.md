@@ -19,7 +19,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Speed-Milliseconds-F59E0B?style=for-the-badge&labelColor=0f172a"/>
 &nbsp;
-<img src="https://img.shields.io/badge/License-MIT-8B5CF6?style=for-the-badge&labelColor=0f172a"/>
+<a href="#-license"><img src="https://img.shields.io/badge/License-All%20Rights%20Reserved-DC2626?style=for-the-badge&labelColor=0f172a"/></a>
 
 <br/><br/>
 
@@ -135,7 +135,7 @@
 - ✅ **Importable module** — use in your own code
 - ✅ **No server needed** — zero backend
 - ✅ **Mobile friendly** — works on any device
-- ✅ **Free forever** — MIT licensed
+- ✅ **Free forever** — just open and use
 
 </td>
 </tr>
@@ -253,9 +253,19 @@ print(result["compression_percent"], "% shorter")
 
 ## 📜 License
 
-**MIT License** — © 2026 Abdullah Javid
+**All Rights Reserved © 2026 Abdullah Javid**
 
-Free to use, modify, and distribute with attribution.
+This repository and its contents — including source code, algorithm, and documentation — are made publicly visible **for portfolio and demonstration purposes only**.
+
+**No part of this repository may be copied, modified, distributed, sublicensed, or used** — in whole or in part, for personal, educational, or commercial purposes — without explicit prior written permission from the author.
+
+Forking or cloning this repository does **not** grant any rights to use, reproduce, or redistribute its contents.
+
+If you are interested in using any part of this project, please contact me directly for permission:
+
+📧 **Email:** mabdullah.ab614@gmail.com
+🔗 **GitHub:** [github.com/mabdullahab614-alt](https://github.com/mabdullahab614-alt)
+💼 **LinkedIn:** [linkedin.com/in/abdullah-javid-b217a2384](https://www.linkedin.com/in/abdullah-javid-b217a2384/)
 
 ---
 
@@ -266,6 +276,10 @@ Free to use, modify, and distribute with attribution.
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-mabdullahab614--alt-181717?style=for-the-badge&logo=github&labelColor=0f172a)](https://github.com/mabdullahab614-alt)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-mabdullah.ab614%40gmail.com-ff2d2d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mabdullah.ab614@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah%20Javid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-javid-b217a2384/)
 &nbsp;
 [![Live Demo](https://img.shields.io/badge/⚡%20Try%20Distill%20AI-10b981?style=for-the-badge&labelColor=0f172a)](https://mabdullahab614-alt.github.io/quick-summarizer)
 &nbsp;
